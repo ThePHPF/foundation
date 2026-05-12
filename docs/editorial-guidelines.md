@@ -79,7 +79,7 @@ Here's how it typically works:
 
 2. **We discuss the idea**, We'll talk through the angle, the audience, and what would make it a strong post. We may suggest a different framing or scope. 
 
-3. **You share a draft in a Google Doc.** This makes collaboration easy and keeps everything in one place. If Google Docs are not available or accessible, other collaborative platforms can be considered. 
+3. **You share a draft** You share a draft via PR or Google Doc. This makes collaboration easy and keeps everything in one place. If either option is not available or accessible, other collaborative platforms can be considered. Note that PRs against the PHP Foundation website are public by nature, so if privacy before publication is desired, this may not be an ideal option.
 
 4. **We collaborate on the draft**. A Foundation team member will review the draft and leave comments. This is a collaborative process, not a gatekeeping one. We're trying to make your post the best it can be, not rewrite it in our voice. 
 
