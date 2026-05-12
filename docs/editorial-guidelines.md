@@ -14,7 +14,7 @@ Our readers include PHP developers of all experience levels, open source contrib
 
 We welcome posts in the following categories:
 
-* **Technical deep-dives**: Detailed explorations of a PHP feature, extension, RFC, or related topic. These are typically written by someone with direct involvement in the subject: a core contributor, RFC author, or experienced practitioner.
+* **Technical deep-dives**: Detailed explorations of a PHP feature, PHP extension, RFC, or related topic. These are typically written by someone with direct involvement in the subject: a core contributor, RFC author, or experienced practitioner.
 
 * **Ecosystem stories**: How your organization uses PHP, how you migrated to a new version, how you integrated a tool like PIE or Composer, lessons learned from a real-world project.
 
@@ -41,6 +41,8 @@ Length should match the complexity of the topic, not a word count target. That s
 * **Technical tutorials and deep-dives:** 1,000–2,000 words
 
 Posts longer than 2,000 words are occasionally appropriate for very complex topics, but ask yourself whether the content could be broken into a series instead. Shorter, focused posts often perform better with readers than exhaustive ones.
+
+If code snippets are included in your post, they do not count toward overall number of words in your article.
 
 
 ### Tone and Voice
@@ -96,7 +98,7 @@ Each post includes a short author bio (2–4 sentences). Please include:
 * Your name and how you'd like to be identified
 * Your role or affiliation (company, project, or "independent contributor")
 * A link to your GitHub, LinkedIn profile, personal site, or other social profile if you'd like one included
-* A headshot
+* (Optional) A headshot
 
 
 ### After Publication
