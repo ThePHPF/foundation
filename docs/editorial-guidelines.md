@@ -32,6 +32,7 @@ We do **not** publish:
 If you're unsure whether your idea fits, just ask. We'd rather have the conversation than have you spend time on something we can't use.
 
 
+
 ### Length
 
 Length should match the complexity of the topic, not a word count target. That said, here are useful benchmarks:
@@ -67,14 +68,12 @@ If code snippets are included in your post, they do not count toward overall num
 
 We believe in transparency. If you work for a company that sponsors the PHP Foundation, or if the post relates to a project your employer benefits from commercially, please disclose this in your author bio or in the post itself. This doesn't disqualify you; it's just honest.
 
-Guest posts represent the author's views, not the official position of The PHP Foundation, unless explicitly stated otherwise.
+ _Note: Even though guest posts represent the author’s views and are not official statements by The PHP Foundation, authors should be mindful that the public perception might consider anything on the blog to be official. Opinions should be clearly distinguished from verifiable facts. The ultimate decision whether or not to publish a post lies with the Foundation._
 
 
 ### The Publishing Process
 
 Here's how it typically works:
-
-
 
 1. **The idea surfaces**, usually through a conversation with someone at the Foundation. If you have an idea you'd like to propose, reach out to us at contact@thephp.foundation. 
 
@@ -97,7 +96,7 @@ Each post includes a short author bio (2–4 sentences). Please include:
 
 * Your name and how you'd like to be identified
 * Your role or affiliation (company, project, or "independent contributor")
-* A link to your GitHub, LinkedIn profile, personal site, or other social profile if you'd like one included
+* A link to your GitHub, LinkedIn profile, personal site, or other social profile if you'd like one included (please limit this to one link).
 * (Optional) A headshot
 
 
